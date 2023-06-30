@@ -1,6 +1,7 @@
 # Image Gallery README
 
 - Deployement: https://vamshi0853.github.io/Image-Gallery/
+
   This is a simple image gallery web page that displays a grid of images and allows the user to view them in full size when clicked.
 
 ## Files Included
